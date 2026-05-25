@@ -12,3 +12,7 @@
 
 <img src="images/control_panel.jpg" width=100%>
 
+### Управление
+
+<img src="images/screenshot.jpg" width=100%>
+
