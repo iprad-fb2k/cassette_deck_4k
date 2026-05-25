@@ -4,7 +4,10 @@
 <img src="images/screenshot.jpg" width=100%>
 
 Реализована на основе [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) от [ttsping](https://github.com/ttsping)
-Тема состоит из двух частей: сама кассетная дека, и панель управления с помощью [Dockable Panels](http://wiki.bowron.us/index.php/Foobar2000) от Christopher Bowron
+
+Тема состоит из двух частей: 
+- кассетная дека
+- панель управления во всплывающем окне на основе [foo_dockable_panels](http://wiki.bowron.us/index.php/Foobar2000) от Christopher Bowron
 
 <img src="images/control_panel.jpg" width=100%>
 
