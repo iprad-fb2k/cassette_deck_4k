@@ -14,5 +14,5 @@
 
 ### Управление
 
-<img src="images/screenshot.jpg" width=100%>
+<img src="images/control.jpg" width=100%>
 
