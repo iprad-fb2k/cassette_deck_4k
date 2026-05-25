@@ -6,7 +6,7 @@
 Реализована на основе [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) от [ttsping](https://github.com/ttsping)
 
 Тема состоит из двух окон: 
-- Кассетная дека в главном окне Foobar2000
+- Кассетная дека в главном окне foobar2000
 - Панель управления в отдельном окне на основе [foo_dockable_panels](http://wiki.bowron.us/index.php/Foobar2000) от Christopher Bowron
   
 
