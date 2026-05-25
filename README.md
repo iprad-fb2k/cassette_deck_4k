@@ -3,7 +3,7 @@
 
 <img src="images/screenshot.jpg" width=100%>
 
-
+Реализована на основе [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) от [ttsping](https://github.com/ttsping)
 
 
 <img src="images/control_panel.jpg" width=100%>
