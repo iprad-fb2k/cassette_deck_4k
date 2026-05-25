@@ -7,8 +7,8 @@
 
 Тема состоит из двух частей: 
 - Кассетная дека в главном окне Foobar2000
-- Панель управления во всплывающем окне на основе [foo_dockable_panels](http://wiki.bowron.us/index.php/Foobar2000) от Christopher Bowron
-  При желании можно разместить деку в таком-же окне на основе foo_dockable_panels
+- Панель управления в отдельном окне на основе [foo_dockable_panels](http://wiki.bowron.us/index.php/Foobar2000) от Christopher Bowron
+  
 
 <img src="images/control_panel.jpg" width=100%>
 
