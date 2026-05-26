@@ -15,8 +15,8 @@
 
 <img src="images/control.jpg" width=100%>
 
-1 - Выход из foobar2000
-2 - Меню foobar2000
-3 - Свободно (mouse drag / mouse wheel)
-4 - Перемещение по треку (mouse drag / mouse wheel)
+-1 - Выход из foobar2000
+-2 - Меню foobar2000
+-3 - Свободно (mouse drag / mouse wheel)
+-4 - Перемещение по треку (mouse drag / mouse wheel)
 
