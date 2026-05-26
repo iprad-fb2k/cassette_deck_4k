@@ -15,8 +15,13 @@
 
 <img src="images/control.jpg" width=100%>
 
-- 1 - Выход из foobar2000
-- 2 - Меню foobar2000
-- 3 - Свободно (mouse drag / mouse wheel)
-- 4 - Перемещение по треку (mouse drag / mouse wheel)
-
+-  1 - Выход из foobar2000
+-  2 - Меню foobar2000
+-  3 - Свободно (mouse drag / mouse wheel)
+-  4 - Перемещение по треку (mouse drag / mouse wheel)
+-  5 - Переключение вида крышки
+-  6 - Сброс счетчика на 0
+-  7 - Переключение счетчика (прошло / осталось)
+-  8 - Переключение Playback Order
+-  9 - Переключение вида индикатора
+- 10 - Переключение вида кассеты (mouse click / mouse wheel)
