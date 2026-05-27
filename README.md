@@ -42,6 +42,11 @@
 
 <img src="images/foo_dockable_panels_default.jpg" width=100%>
 
+Найти можно здесь:
+
+<img src="images/foo_dockable_panels_call.jpg" width=100%>
+
+
 
 ## Управление
 
