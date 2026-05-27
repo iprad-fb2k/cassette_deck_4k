@@ -38,7 +38,7 @@
 - Загрузить в панель скрипт foobar2000_hi-fi\themes\hi-fi\cassette_deck_4k\Scripts\TechnicsRSBX_4K.txt
 
 ## Дополнение
-В обоих вариантах есть дополнительное окно на основе foo_dockable_panels.
+В обоих вариантах есть настроенное окно на основе foo_dockable_panels.
 
 <img src="images/foo_dockable_panels_default.jpg" width=100%>
 
