@@ -37,6 +37,9 @@
 - Разместить панель foo_uie_wsh_panel_mod_plus
 - Загрузить в панель скрипт foobar2000_hi-fi\themes\hi-fi\cassette_deck_4k\Scripts\TechnicsRSBX_4K.txt
 
+## Дополнение
+В обоих вариантах есть дополнительно окно на основе foo_dockable_panels.
+
 
 ## Управление
 
