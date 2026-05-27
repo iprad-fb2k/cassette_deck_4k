@@ -18,7 +18,7 @@
 
 ### Установка
 - Извлечь файлы из архива full.zip
-- Установить шрифты из папки fonts архива (продублированы в foobar2000_hi-fi\themes\hi-fi\common\fonts)
+- Установить шрифты из папки fonts архива full.zip (продублированы в foobar2000_hi-fi\themes\hi-fi\common\fonts)
   
   Установка завершена
 
