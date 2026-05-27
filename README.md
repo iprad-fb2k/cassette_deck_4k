@@ -1,7 +1,7 @@
 # Кассетная дека Technics RSBX-828
 Тема для [foobar2000](https://www.foobar2000.org), имитирующая кассетную деку Technics RSBX-828
 
-Реализована на основе [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) от [ttsping](https://github.com/ttsping) под любое разрешение монитора, вплоть до 4K.
+Реализована на основе [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) от [ttsping](https://github.com/ttsping) под любое разрешение, вплоть до 4K.
 
 Представлено два варианта:
 - Полная сборка [full.zip](full.zip)
@@ -76,3 +76,6 @@
 - 25 - Скорость вращения катушек. По умолчанию 50 мс. При уменьшении интервала возрастает нагрузка на процессор (mouse drag / mouse wheel)
 - 26 - Свободно (mouse drag / mouse wheel)
 - 27 - Шаг перемещения по треку. По умолчанию 3 секунды (mouse drag / mouse wheel)
+- Перемещение деки в пределах окна: Shift + mouse left button
+- Перемещение окна: Ctrl + mouse left button
+  
