@@ -4,11 +4,10 @@
 Реализована на основе [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) от [ttsping](https://github.com/ttsping)
 
 Представлено два варианта:
-- Полная сборка
-- Файлы темы для интеграции в другие сборки
+- Полная сборка (full.zip)
+- Файлы темы для интеграции в другие сборки (theme.zip)
 
 ## Полная сборка
-
 Тема состоит из двух окон: 
 - Кассетная дека в главном окне foobar2000
 <img src="images/screenshot.jpg" width=100%>
