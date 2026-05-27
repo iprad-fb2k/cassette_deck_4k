@@ -16,7 +16,13 @@
 
 <img src="images/control_panel.jpg" width=100%>
 
-### Управление
+### Установка
+
+
+## Файлы темы для интеграции
+### Установка
+
+## Управление
 
 <img src="images/control.jpg" width=100%>
 
