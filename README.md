@@ -40,6 +40,8 @@
 ## Дополнение
 В обоих вариантах есть дополнительно окно на основе foo_dockable_panels.
 
+<img src="images/foo_dockable_panels_default.jpg" width=100%>
+
 
 ## Управление
 
