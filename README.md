@@ -44,7 +44,7 @@
 
 Найти можно здесь:
 
-<img src="images/foo_dockable_panels_call.jpg" width=50%>
+<img src="images/foo_dockable_panels_call.jpg" width=100%>
 
 ## Управление
 <img src="images/control.jpg" width=100%>
