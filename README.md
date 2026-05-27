@@ -23,7 +23,7 @@
   Установка завершена
 
 
-## Файлы темы для интеграции в сборки
+## Файлы темы для интеграции в сборку
 Архив содержит файлы темы и следующие компоненты:
 - foo_dockable_panels
 - foo_uie_wsh_panel_mod_plus
@@ -34,6 +34,8 @@
 - Сделать архив своей сборки
 - Извлечь файлы из архива theme.zip в сборку
 - Установить шрифт foobar2000_hi-fi\themes\hi-fi\common\fonts\lcd_technics_rsbx_828.ttf
+- Разместить панель foo_uie_wsh_panel_mod_plus
+- Загрузить в панель скрипт foobar2000_hi-fi\themes\hi-fi\cassette_deck_4k\Scripts\TechnicsRSBX_4K.txt
 
 
 ## Управление
