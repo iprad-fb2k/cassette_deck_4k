@@ -17,6 +17,9 @@
 <img src="images/control_panel.jpg" width=100%>
 
 ### Установка
+- Распакавать архив full.zip
+- Установить шрифты из папки fonts архива (продублированы в foobar2000_hi-fi\themes\hi-fi\common\fonts)
+  Установка завершена
 
 
 ## Файлы темы для интеграции
