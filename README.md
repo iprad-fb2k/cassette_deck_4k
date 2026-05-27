@@ -17,14 +17,18 @@
 <img src="images/control_panel.jpg" width=100%>
 
 ### Установка
-- Распакавать архив full.zip
+- Извлечь файлы из архива full.zip
 - Установить шрифты из папки fonts архива (продублированы в foobar2000_hi-fi\themes\hi-fi\common\fonts)
   
   Установка завершена
 
 
 ## Файлы темы для интеграции
+
 ### Установка
+- Сделать архив сборки
+- Извлечь файлы из архива theme.zip в сборку
+- Установить шрифт foobar2000_hi-fi\themes\hi-fi\common\fonts\lcd_technics_rsbx_828.ttf
 
 ## Управление
 
