@@ -4,8 +4,8 @@
 Реализована на основе [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) от [ttsping](https://github.com/ttsping)
 
 Представлено два варианта:
-- Полная сборка (full.zip)
-- Файлы темы для интеграции в другие сборки (theme.zip)
+- Полная сборка [full.zip](full.zip)
+- Файлы темы для интеграции в другие сборки [theme.zip](theme.zip)
 
 ## Полная сборка
 Тема состоит из двух окон: 
