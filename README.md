@@ -96,4 +96,9 @@
 - Transparency Window - Устанавливает прозрачный фон
 - Auto Size Window - Установка размера окна под деку
 
+### Прозрачный задний фон
+
+- Для темы в окне foobar2000
+  <img src="images/ui_hacks.jpg" width=100%>
+  
   
