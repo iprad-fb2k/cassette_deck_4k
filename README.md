@@ -106,4 +106,7 @@
 - Убрать рамку окна foo_dockable_panels
   
   <img src="images/dockable.jpg" width=100%>
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1N61ZS5FW)
   
