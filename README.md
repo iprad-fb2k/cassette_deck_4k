@@ -104,7 +104,7 @@
 
 - Выбрать в меню темы Transparency Window
 - Убрать рамку окна foo_dockable_panels
-  
+
 <img src="images/dockable.jpg" width=100%>
 
 Поддержать автора
