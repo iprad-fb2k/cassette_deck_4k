@@ -91,4 +91,9 @@
 - Enable Sound Effects - воспроизводятся звуки нажатия кнопок
 - Bottom Position Deck - расположение деки внизу окна. При отключении - по центру окна
 
+Дополнительно для foo_dockable_panels:
+  
+- Transparency Window - Устанавливает прозрачный фон
+- Auto Size Window - Установка размера окна под деку
+
   
