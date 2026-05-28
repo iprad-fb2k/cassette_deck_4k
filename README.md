@@ -98,14 +98,14 @@
 
 ### Прозрачный задний фон для темы в окне foobar2000
   
-  <img src="images/ui_hacks.jpg" width=100%>
+<img src="images/ui_hacks.jpg" width=100%>
 
 ### Прозрачный задний фон для темы в окне foo_dockable_panels:
 
 - Выбрать в меню темы Transparency Window
 - Убрать рамку окна foo_dockable_panels
   
-  <img src="images/dockable.jpg" width=100%>
+<img src="images/dockable.jpg" width=100%>
 
 Поддержать автора
 
