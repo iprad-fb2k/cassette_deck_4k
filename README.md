@@ -102,7 +102,8 @@
 
 ### Прозрачный задний фон для темы в окне foo_dockable_panels:
 
-- Установить в меню темы Transparency Window
+- Выбрать в меню темы Transparency Window
+- Убрать рамку окна foo_dockable_panels
   
   <img src="images/dockable.jpg" width=100%>
   
