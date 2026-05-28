@@ -81,4 +81,9 @@
 - Перемещение деки в пределах окна: Shift + left button
 - Перемещение окна: Ctrl + left button
 - Выравнивание деки в окне: double click
+
+### Меню деки
+
+<img src="images/deck_settings.jpg" width=100%>
+
   
