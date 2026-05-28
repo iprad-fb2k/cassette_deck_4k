@@ -107,6 +107,6 @@
   
   <img src="images/dockable.jpg" width=100%>
 
-
+Поддержать автора
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1N61ZS5FW)
   
