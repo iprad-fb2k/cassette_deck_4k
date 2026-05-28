@@ -99,6 +99,9 @@
 ### Прозрачный задний фон
 
 - Для темы в окне foobar2000
+  
   <img src="images/ui_hacks.jpg" width=100%>
+
+- Для темы в окне foo_dockable_panels:
   
   
