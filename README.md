@@ -2,6 +2,7 @@
 Тема для [foobar2000](https://www.foobar2000.org), имитирующая кассетную деку Technics RSBX-828
 
 Реализована на основе [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) от [ttsping](https://github.com/ttsping) под любое разрешение, вплоть до 4K.
+Масштабируется по размеру окна. 
 
 Доступно два варианта:
 - Полная сборка [full.zip](full.zip)
