@@ -3,7 +3,7 @@
 
 Реализована на основе [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) от [ttsping](https://github.com/ttsping) под любое разрешение, вплоть до 4K.
 
-Представлено два варианта:
+Доступно два варианта:
 - Полная сборка [full.zip](full.zip)
 - Файлы темы для интеграции в другие сборки [theme.zip](theme.zip)
 
@@ -29,7 +29,6 @@
 - foo_uie_wsh_panel_mod_plus
 - foo_vis_vumeter
 
-
 ### Установка
 - Сделать архив своей сборки
 - Извлечь файлы из архива theme.zip в сборку
@@ -42,14 +41,14 @@
 
 <img src="images/foo_dockable_panels_default.jpg" width=100%>
 
-Найти можно здесь:
+Вызов окна:
 
 <img src="images/foo_dockable_panels_call.jpg" width=100%>
 
 ## Управление
 <img src="images/control.jpg" width=100%>
 
-- 1 - Выход из foobar2000
+- 1 - Выход из foobar2000 (сворачивание окна деки foo_dockable_panels)
 - 2 - Меню foobar2000
 - 3 - Свободно (mouse drag / mouse wheel)
 - 4 - Перемещение по треку (mouse drag / mouse wheel)
@@ -73,7 +72,7 @@
 - 22 - Вызов окна Control Panel
 - 23 - Громкость (mouse drag / mouse wheel)
 - 24 - Баланс (требуется foo_ui_hacks) (mouse drag / mouse wheel) 
-- 25 - Скорость вращения катушек. По умолчанию 50 мс. При уменьшении интервала возрастает нагрузка на процессор (mouse drag / mouse wheel)
+- 25 - Скорость вращения катушек. По умолчанию 50 мс. При уменьшении интервала возрастает скорость вращения и нагрузка на процессор (mouse drag / mouse wheel)
 - 26 - Свободно (mouse drag / mouse wheel)
 - 27 - Шаг перемещения по треку. По умолчанию 3 секунды (mouse drag / mouse wheel)
 
