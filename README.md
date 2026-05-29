@@ -18,12 +18,11 @@ The theme consists of two windows:
 
 <img src="images/control_panel.jpg" width=100%>
 
-### Установка
-- Извлечь файлы из архива full.zip
-- Установить шрифты из папки fonts архива full.zip (продублированы в foobar2000_hi-fi\themes\hi-fi\common\fonts)
-  
-  Установка завершена
+### Installation
+- Extract files from the full.zip archive
+- Install fonts from the fonts folder of the full.zip archive (duplicated in foobar2000_hi-fi\themes\hi-fi\common\fonts)
 
+Installation is complete
 
 ## Файлы темы для интеграции в сборку
 Архив содержит файлы темы и следующие компоненты:
