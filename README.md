@@ -24,18 +24,18 @@ The theme consists of two windows:
 
 Installation is complete
 
-## Файлы темы для интеграции в сборку
-Архив содержит файлы темы и следующие компоненты:
+## Theme files for integration into the assembly
+The archive contains theme files and the following components:
 - foo_dockable_panels
 - foo_uie_wsh_panel_mod_plus
 - foo_vis_vumeter
 
-### Установка
-- Сделать архив своей сборки
-- Извлечь файлы из архива theme.zip в сборку
-- Установить шрифт foobar2000_hi-fi\themes\hi-fi\common\fonts\lcd_technics_rsbx_828.ttf
-- Разместить панель foo_uie_wsh_panel_mod_plus
-- Загрузить в панель скрипт foobar2000_hi-fi\themes\hi-fi\cassette_deck_4k\Scripts\TechnicsRSBX_4K.txt
+### Installation
+- Create an archive of your build
+- Extract files from the theme.zip archive into the build
+- Install the foobar2000_hi-fi\themes\hi-fi\common\fonts\lcd_technics_rsbx_828.ttf font
+- Place panel foo_uie_wsh_panel_mod_plus
+-	Load the script foobar2000_hi-fi\themes\hi-fi\cassette_deck_4k\Scripts\TechnicsRSBX_4K.txt into the panel
 
 ## Дополнение
 В обоих вариантах есть настроенное окно на основе foo_dockable_panels.
