@@ -1,20 +1,20 @@
 # Technics RSBX-828 Cassette Deck
 Theme for [foobar2000](https://www.foobar2000.org), imitating the Technics RSBX-828 cassette deck
 
-Реализована на основе [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) от [ttsping](https://github.com/ttsping) под любое разрешение, вплоть до 4K.
+Implemented based on [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) from [ttsping](https://github.com/ttsping) for any resolution, up to 4K.
 
-Масштабируется по размеру окна. 
+Scales to fit the window.
 
-Доступно два варианта:
-- Полная сборка [full.zip](full.zip)
-- Файлы темы для интеграции в другие сборки [theme.zip](theme.zip)
+There are two options available:
+- Full assembly (full.zip)
+- Theme files for integration into other builds (theme.zip)
 
-## Полная сборка
-Тема состоит из двух окон: 
-- Кассетная дека в главном окне foobar2000
+## Full assembly
+The theme consists of two windows: 
+- The cassette deck in the main foobar2000 window
 <img src="images/screenshot.jpg" width=100%>
 
-- Панель управления в отдельном окне на основе [foo_dockable_panels](http://wiki.bowron.us/index.php/Foobar2000) от Christopher Bowron  
+- A dockable control panel based on  [foo_dockable_panels](http://wiki.bowron.us/index.php/Foobar2000) by Christopher Bowron  
 
 <img src="images/control_panel.jpg" width=100%>
 
