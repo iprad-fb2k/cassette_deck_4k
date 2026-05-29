@@ -77,25 +77,24 @@ Window call:
 - 26 - Free (mouse drag / mouse wheel)
 - 27 - Track movement step. Default is 3 seconds (mouse drag / mouse wheel)
 
+### Mouse movement
+- Move the deck within the window: Shift + left button
+- Move window: Ctrl + left button
+- Align the deck in the window: double click
 
-### Перемещение мышью
-- Перемещение деки в пределах окна: Shift + left button
-- Перемещение окна: Ctrl + left button
-- Выравнивание деки в окне: double click
-
-### Меню деки
+### Deck menu
 
 <img src="images/deck_settings.jpg" width=100%>
 
-- Scale 100% - отображение деки в полном размере. Перемещение: Shift + left button 
-- Lock Scale - блокировка текущего размера деки. При изменении размеров окна не происходит масштабирование
-- Enable Sound Effects - воспроизводятся звуки нажатия кнопок
-- Bottom Position Deck - расположение деки внизу окна. При отключении - по центру окна
+- Scale 100% - displays the deck at full size. Move: Shift + left button
+- Lock Scale - locks the current deck size. Resizing the window prevents scaling.
+- Enable Sound Effects - plays sounds when buttons are pressed
+- Bottom Position Deck - Positions the deck at the bottom of the window. When disabled, it's centered in the window.
 
-Дополнительно для foo_dockable_panels:
+Additionally for foo_dockable_panels:
   
-- Transparency Window - Устанавливает прозрачный фон
-- Auto Size Window - Установка размера окна под деку
+- Transparency Window - Sets a transparent background
+- Auto Size Window - Setting the window size to the deck
 
 ### Прозрачный задний фон для темы в окне foobar2000
   
