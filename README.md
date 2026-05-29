@@ -96,17 +96,17 @@ Additionally for foo_dockable_panels:
 - Transparency Window - Sets a transparent background
 - Auto Size Window - Setting the window size to the deck
 
-### Прозрачный задний фон для темы в окне foobar2000
+### Transparent background for the theme in the foobar2000 window
   
 <img src="images/ui_hacks.jpg" width=100%>
 
-### Прозрачный задний фон для темы в окне foo_dockable_panels:
+### Transparent background for theme in foo_dockable_panels window:
 
 <img src="images/dockable.jpg" width=100%>
 
-- Выбрать в меню темы Transparency Window
-- Убрать рамку окна foo_dockable_panels
+-	Select Transparency Window from the theme menu
+- Remove window border foo_dockable_panels
 
-Поддержать автора
+Support the author
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1N61ZS5FW)
