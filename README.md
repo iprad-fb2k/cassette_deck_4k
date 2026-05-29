@@ -37,45 +37,46 @@ The archive contains theme files and the following components:
 - Place panel foo_uie_wsh_panel_mod_plus
 -	Load the script foobar2000_hi-fi\themes\hi-fi\cassette_deck_4k\Scripts\TechnicsRSBX_4K.txt into the panel
 
-## Дополнение
-В обоих вариантах есть настроенное окно на основе foo_dockable_panels.
+## Addition
+Both options have a customized window based on foo_dockable_panels.
 
 <img src="images/foo_dockable_panels_default.jpg" width=100%>
 
-Вызов окна:
+Window call:
 
 <img src="images/foo_dockable_panels_call.jpg" width=100%>
 
-## Управление
+## Management
 <img src="images/control.jpg" width=100%>
 
-- 1 - Выход из foobar2000 (сворачивание окна деки foo_dockable_panels)
-- 2 - Меню foobar2000
-- 3 - Свободно (mouse drag / mouse wheel)
-- 4 - Перемещение по треку (mouse drag / mouse wheel)
-- 5 - Переключение вида крышки кассетного отсека
-- 6 - Сброс счетчика на 0
-- 7 - Переключение режима счетчика (прошло / осталось)
-- 8 - Переключение Playback Order. Левая / правая часть кнопки  - / +
-- 9 - Переключение вида индикатора (требуется foo_vis_vumeter) 
-- 10 - Переключение вида кассеты. Левая часть кнопки - предыдущая, правая часть - следующая (mouse click / mouse wheel)
-- 11 - Переключение вида катушки кассеты. Левая часть кнопки - предыдущая, правая часть - следующая (mouse click)
-- 12 - Меню деки
-- 13 - Переключение отображения информации о текущем треке
-- 14 - Переключение отображения всплывающих подсказок
-- 15 - Предыдущий трек. При удерживании кнопки перемещение по треку в обратную сторону. Шаг настраивается регулятором #27
+- 1 - Exit foobar2000 (minimize the foo_dockable_panels deck window)
+- 2 - Menu foobar2000
+- 3 - Free (mouse drag / mouse wheel)
+- 4 - Move along the track (mouse drag / mouse wheel)
+- 5 - Switching the type of cassette compartment cover
+- 6 - Reset the counter to 0
+- 7 - Switching the counter mode (elapsed / remaining)
+- 8 - Switch Playback Order. Left / Right side of the button - / +
+- 9 - Switch indicator type (requires foo_vis_vumeter)
+- 10 - Switches the cassette view. The left side of the button is the previous one, the right side is the next one (mouse click / mouse wheel)
+- 11 - Switches the cassette reel view. The left side of the button is the previous one, the right side is the next one (mouse click)
+- 12 - Deck Menu
+- 13 - Switching the display of information about the current track
+- 14 - Toggle the display of tooltips
+- 15 - Previous track. Holding the button moves backward through the track. The step is adjusted with knob #27.
 - 16 - Stop
 - 17 - Play
-- 18 - Следующий трек. При удерживании кнопки перемещение по треку. Шаг настраивается регулятором #27
-- 19 - Пауза
+- 18 - Next Track. While holding the button, move through the tracks. The step is adjusted with knob #27.
+- 19 - Pause
 - 20 - Mute
-- 21 - Вызов окна Quick Convert
-- 22 - Вызов окна Control Panel
-- 23 - Громкость (mouse drag / mouse wheel)
-- 24 - Баланс (требуется foo_ui_hacks) (mouse drag / mouse wheel) 
-- 25 - Скорость вращения катушек. По умолчанию 50 мс. При уменьшении интервала возрастает скорость вращения и нагрузка на процессор (mouse drag / mouse wheel)
-- 26 - Свободно (mouse drag / mouse wheel)
-- 27 - Шаг перемещения по треку. По умолчанию 3 секунды (mouse drag / mouse wheel)
+- 21 - Calling the Quick Convert window
+- 22 - Calling the Control Panel window
+- 23 - Volume (mouse drag / mouse wheel)
+- 24 - Balance (requires foo_ui_hacks) (mouse drag / mouse wheel)
+- 25 - Reel speed. Default is 50 ms. Decreasing the interval increases the reel speed and CPU load (mouse drag/mouse wheel).
+- 26 - Free (mouse drag / mouse wheel)
+- 27 - Track movement step. Default is 3 seconds (mouse drag / mouse wheel)
+
 
 ### Перемещение мышью
 - Перемещение деки в пределах окна: Shift + left button
