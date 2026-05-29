@@ -1,5 +1,5 @@
-# Кассетная дека Technics RSBX-828
-Тема для [foobar2000](https://www.foobar2000.org), имитирующая кассетную деку Technics RSBX-828
+# Technics RSBX-828 Cassette Deck
+Theme for [foobar2000](https://www.foobar2000.org), imitating the Technics RSBX-828 cassette deck
 
 Реализована на основе [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) от [ttsping](https://github.com/ttsping) под любое разрешение, вплоть до 4K.
 
